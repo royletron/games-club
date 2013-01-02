@@ -1,0 +1,2 @@
+{"ts":1357153134364,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class PagesController < ApplicationController\n  def home\n  end\n\n  def contact\n  end\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":88}]],"length":88}
+{"contributors":[],"silentsave":false,"ts":1357153935494,"patch":[[{"diffs":[[0,"e\n  "],[-1,"end\n\n  def contact"],[1,"  @title = \"Home\"\n  end\n\n  def contact\n    @title = \"Contact\""],[0,"\n  e"]],"start1":55,"start2":55,"length1":26,"length2":69}]],"length":131,"saved":false}
